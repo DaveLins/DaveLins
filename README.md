@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/DaveLins ">
-  <img height="180em" src="https://pps.whatsapp.net/v/t61.24694-24/218179524_309110351000476_7316557828077775753_n.jpg?ccb=11-4&oh=a22defccb387836815fd0e846edff8f6&oe=61E5ED51"/>
+  <a href="https://github.com/DaveLins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
